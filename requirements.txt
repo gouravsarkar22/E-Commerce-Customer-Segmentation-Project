@@ -1,0 +1,7 @@
+Python (Main Programming language)
+
+NumPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-Learn
